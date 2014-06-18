@@ -1,7 +1,7 @@
 hmt-12C
 =======
 
-Team C
+Team C: CHS office 10
 
 
 Initial editing assignment:  Venetus A, folio 155 verso.
