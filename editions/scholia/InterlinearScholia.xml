@@ -5,7 +5,9 @@
             <titleStmt>
                 <title>Venetus A Interlinear Scholia</title>
 
-                <author>YOR NAME HERE</author>
+                <author>Amie Goblirsh</author>
+                <author>Solomon Umana</author>
+                <author>Suzanne Verkade</author>
             </titleStmt>
             <publicationStmt>
                 <p>Unpublished</p>
@@ -19,15 +21,147 @@
         <group n="12">
             <text n="msAil">
                 <body>
-                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:12.1" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:12.C1" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.52@δειδίσσετο</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>εἱσ δέοσ ῆγε καί φοβον</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:12.C2" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.54@ῥηϊδίη</p>
+                        </div>
+                        <div type="comment">
+                            <p>εὐκόλωσ</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:12.C3" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.54@ἐπηρεφέεσ</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὑψηλοι μεγάλοι</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:12.C4" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.55@σκολόπεσσιν</p>
+                        </div>
+                        <div type="comment">
+                            <p>ξύλοισ ἀπωξυμμέννοιο</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:12.C5" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.56@ἠρήρει</p>
+                        </div>
+                        <div type="comment">
+                            <p>επεπύκνωτο</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:12.C6" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.57@ἀλεωρήν</p>
+                        </div>
+                        <div type="comment">
+                            <p>φυλακην απο φυγην:</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:12.C7" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.59@μενοίνεον</p>
+                        </div>
+                        <div type="comment">
+                            <p>προεθυμοῦν το ενενό ουν</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:12.C8" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.61@ἐπίκούρων</p>
+                        </div>
+                        <div type="comment">
+                            <p>οι</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:12.C9" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.62@ἀφραδέωσ</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀπρονοήτωσ ἀπείρωσ</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:12.C10" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.66@τρώσεσθαι</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀντι του ἐλαττωθήναι ἡττηθῆναι:</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:12.C11" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.67@άλαπἀζει</p>
+                        </div>
+                        <div type="comment">
+                            <p>πορθεῖ</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:12.C12" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.71@παλίωξισ</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἡ τῶν διωκόντων φυγή</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:12.C13" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.74@ἐλιχθέντων</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὑποστραφέντων:</p>
                         </div>
                     </div>
                 </body>
