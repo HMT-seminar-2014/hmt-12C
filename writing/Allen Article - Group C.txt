@@ -1,0 +1,89 @@
+##The Hand of the Intermarginal Scholia##
+### Allen, pgs. 170 - 172 ###
+
+"The pen of the intermarginal scholia was more active". Once the main text/main scholia were in place, the scribe gave a clerical revision to the text. (including accents, breathings, critical signs, etc.). He also added variants to the main text (i.e. interlinear). The corrections are in a markedly different character style ("semi-uncial character, light tint, and their thin and sometimes barely visible stroke") than the intermarginal scholia, which were copied (from the same source as the main text and main scholia) in a completely different pass, so the two tasks are evidently separate. While revising/adding variants to the text, he paid no attention to anything already in the scholia, which accounts for repeated notes/corrections.  
+
+N.B. Folio citations in paranthesis show the original citation by Allen that we found to be incorrect. We have recorded the correct folio page following the paranthesis.  
+
+Pg.170 FOOTNOTE CITATIONS: 
+
+125v I.694 urn:cite:hmt:vaimg.VA125VN-0628@0.4086,0.3188,0.0743,0.076 
+150r λ 632 urn:cite:hmt:vaimg.VA150RN-0322@0.0727,0.3022,0.1192,0.0603 
+161v M 371 urn:cite:hmt:vaimg.VA161VN-0663@0.4265,0.5635,0.0771,0.0237 
+182v Ξ  117-8 urn:cite:hmt:vaimg.VA182VN-0684@0.445,0.5002,0.0753,0.0607
+
+1) VARIANTS *()= Allen's incorrect folio citation 
+(122v) 123r I 569: urn:cite:hmt:vaimg.VA123RN-0295@0.49,0.2987,0.1323,0.0256
+124r I 632: urn:cite:hmt:vaimg.VA124RN-0296@0.4745,0.5552,0.0851,0.0263 
+124r I 633: urn:cite:hmt:vaimg.VA124RN-0296@0.4454,0.5785,0.1161,0.0218
+126v K 41: urn:cite:hmt:vaimg.VA126VN-0629@0.8649,0.5004,0.043,0.0225 
+128 r K 105: urn:cite:hmt:vaimg.VA128RN-0300@0.3844,0.2847,0.0711,0.0255 
+128v K 141: urn:cite:hmt:vaimg.VA128VN-0631@0.5526,0.5079,0.049,0.0195 
+131r K 273: urn:cite:hmt:vaimg.VA131RN-0303@0.4194,0.6071,0.046,0.0195
+131 v K 278: urn:cite:hmt:vaimg.VA131VN-0634@0.5485,0.2509,0.029,0.018
+132v K 345: urn:cite:hmt:vaimg.VA132VN-0635@0.8218,0.5838,0.0751,0.0233
+(133r) 133v K 385: urn:cite:hmt:vaimg.VA133VN-0635@0.482,0.4015,0.0451,0.0203
+(133r) 133v K 387: urn:cite:hmt:vaimg.VA133VN-0635@0.7114,0.4361,0.2014,0.0195 (interior NOT interlinear)
+134r K 424: urn:cite:hmt:vaimg.VA134RN-0306@0.2415,0.6286,0.0341,0.018
+135r K 452: urn:cite:hmt:vaimg.VA135RN-0307@0.3988,0.194,0.0581,0.0308
+136r K 515: urn:cite:hmt:vaimg.VA136RN-0308@0.2144,0.4271,0.1222,0.0248 
+(137v) 138r L 27: urn:cite:hmt:vaimg.VA138RN-0310@0.3317,0.2421,0.0541,0.018
+(139v) 140r L 146: urn:cite:hmt:vaimg.VA140RN-0312@0.4419,0.597,0.019,0.0165
+(145v) 145r L 394: urn:cite:hmt:vaimg.VA145RN-0317@0.2325,0.5444,0.0291,0.0263
+140v λ 151 urn:cite:hmt:vaimg.VA140VN-0642@0.4949,0.23,0.0713,0.0251
+149v λ 620 urn:cite:hmt:vaimg.VA149VN-0651@0.5891,0.5633,0.1032,0.0241
+157v M 161, urn:cite:hmt:vaimg.VA157VN-0659@0.5133,0.4158,0.1067,0.0206
+160r. M.281 urn:cite:hmt:vaimg.VA160RN-0331@0.5651,0.2588,0.0542,0.0292
+
+2) RESTORED/ALTERED ACCENTS, BREATHINGS, ETC. 
+
+"These are too universal and too simple to need illustration."
+[no citations] 
+
+3) ELISSIONS SUPPLIED/IOTA ADSCRIPT
+
+130r K 204 urn:cite:hmt:vaimg.VA130RN-0302@0.4207,0.2484,0.0908,0.0252
+133r K 370 urn:cite:hmt:vaimg.VA133RN-0305@0.2109,0.5608,0.0477,0.0227
+137r k 557 urn:cite:hmt:vaimg.VA137RN-0309@0.2671,0.2773,0.0836,0.0245
+137v λ 11 urn:cite:hmt:vaimg.VA137VN-0639@0.465,0.436,0.0407,0.0234
+Ibid λ 13 urn:cite:hmt:vaimg.VA137VN-0639@0.7311,0.476,0.0533,0.0204
+
+Iota adscript
+151r λ 698 urn:cite:hmt:vaimg.VA151RN-0323@0.237,0.589,0.0332,0.0247
+158v μ 207 urn:cite:hmt:vaimg.VA158VN-0660@0.7088,0.3185,0.0711,0.0191
+
+4) CRITICAL SIGNS AND ERASURES    
+
+"The critical signs, as appertaining closely to the text, are as a rule written by the hand of the text. Many however show erasures, and a certain number are in a lighter ink..."
+
+f 36r
+	B 612-616: urn:cite:hmt:vaimg.VA036RN-0037@0.1261,0.5823,0.0651,0.1165
+	596-599: urn:cite:hmt:vaimg.VA036RN-0037@0.1401,0.2787,0.0541,0.0902
+	605 and 603: urn:cite:hmt:vaimg.VA036RN-0037@0.1311,0.4057,0.0571,0.0879
+
+F 52r 
+	Γ 4: urn:cite:hmt:vaimg.VA042RN-0043@0.1121,0.2727,0.0911,0.0421
+	Others: urn:cite:hmt:vaimg.VA042RN-0043@0.1101,0.3095,0.0551,0.1375
+13 r
+	A 68: urn:cite:hmt:vaimg.VA013RN-0014@0.1532,0.6454,0.0551,0.0338 
+14r 
+	A 117: urn:cite:hmt:vaimg.VA014RN-0015@0.1391,0.5244,0.0661,0.0443
+27v
+	B 184, 186: urn:cite:hmt:vaimg.VA027VN-0529@0.4749,0.6263,0.0812,0.0917
+30v
+	B 320, 328: urn:cite:hmt:vaimg.VA030VN-0532@0.476,0.3519,0.0391,0.0256 ;  urn:cite:hmt:vaimg.VA030VN-0532@0.4629,0.5015,0.0661,0.0368
+34r
+	B 511: urn:cite:hmt:vaimg.VA034RN-0035@0.1281,0.6349,0.049,0.0391
+35v 
+	B 571: urn:cite:hmt:vaimg.VA035VN-0537@0.477,0.3105,0.0361,0.0278
+36r 
+	B 596: urn:cite:hmt:vaimg.VA036RN-0037@0.1433,0.2805,0.0471,0.0256
+36v
+	B 625, 629: urn:cite:hmt:vaimg.VA036VN-0538@0.4709,0.2782,0.0581,0.1218
+(37r) 37v 
+	B 668, 670: urn:cite:hmt:vaimg.VA037VN-0539@0.4617,0.2472,0.0213,0.0133
+40v 
+	B 819: urn:cite:hmt:vaimg.VA040VN-0542@0.4725,0.2524,0.048,0.0323
+37v	
+	671,672: urn:cite:hmt:vaimg.VA037VN-0539@0.4414,0.2968,0.0641,0.0466
+
